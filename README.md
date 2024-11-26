@@ -36,9 +36,9 @@ A simple command-line to-do list app built using **Bash** scripting. Manage your
 3. **Move the script to a directory in your PATH** (optional, but recommended for global use):
 
     ```bash
-    sudo mv todo.sh /usr/local/bin/todo
+    sudo mv todo.sh /usr/local/bin/bashtodo
     ```
-    This allows you to run `todo` from anywhere in your terminal!
+    This allows you to run `bashtodo` from anywhere in your terminal!
     
 
 ---
@@ -46,11 +46,11 @@ A simple command-line to-do list app built using **Bash** scripting. Manage your
 ## Usage
 ### Available Commands
 
-- **`todo -t`**: Add a new task
-- **`todo -l`**: List all current tasks
-- **`todo -r`**: Remove a task by its number
-- **`todo -d`**: Mark a task as done
-- **`todo -h`**: Show the help menu
+- **`bashtodo -t`**: Add a new task
+- **`bashtodo -l`**: List all current tasks
+- **`bashtodo -r`**: Remove a task by its number
+- **`bashtodo -d`**: Mark a task as done
+- **`bashtodo -h`**: Show the help menu
 
 ## Notes
 
