@@ -23,7 +23,7 @@ A simple command-line to-do list app built using **Bash** scripting. Manage your
 1. **Clone the repository** to your local machine:
     
     ```bash
-    git clone <https://github.com/ayahbash/bashtodo.git>
+    git clone https://github.com/ayahbash/bashtodo.git
     cd bashtodo
     ```
     
