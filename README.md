@@ -1,15 +1,15 @@
 # bashtodo - CLI to-do app 📝
 
-A simple command-line to-do list app built using **Bash** scripting. Manage your tasks directly from the terminal with simple commands like **add**, **list**, **remove**, and **mark as done**!
+A simple **CRUD** CLI to-do list app built using **Bash** scripting. Manage your tasks directly from the terminal with simple commands like **add**, **list**, **remove**, and **mark as done**!
 
 ![screenshot](ss.png)
 
-## Features 
-- Add tasks to your to-do list
-- View all the tasks in your to-do list
-- Mark tasks as completed
-- Remove tasks from your list
-- Simple and fast command-line interface
+## Usage 
+- **`bashtodo -t`**: Add a new task
+- **`bashtodo -l`**: List all current tasks
+- **`bashtodo -r`**: Remove a task by its number
+- **`bashtodo -d`**: Mark a task as done
+- **`bashtodo -h`**: Show the help menu
 
 ## Installation
 
@@ -40,18 +40,3 @@ A simple command-line to-do list app built using **Bash** scripting. Manage your
     ```
     This allows you to run `bashtodo` from anywhere in your terminal!
     
-
----
-
-## Usage
-### Available Commands
-
-- **`bashtodo -t`**: Add a new task
-- **`bashtodo -l`**: List all current tasks
-- **`bashtodo -r`**: Remove a task by its number
-- **`bashtodo -d`**: Mark a task as done
-- **`bashtodo -h`**: Show the help menu
-
-## Notes
-
-Feel free to fork this repository and create your own versions, or submit issues and pull requests if you want to improve or fix something!
