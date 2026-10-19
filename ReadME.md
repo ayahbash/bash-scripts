@@ -4,7 +4,6 @@ a collection of bash scripts for practice.
 
 ## >_
 - [bashtodo](./bashtodo/) ~ simple to-do list manager.
-more coming soon :3
 ---
 ## license  
 this project is licensed under the MIT license.
